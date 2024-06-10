@@ -1,0 +1,17 @@
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\bin\Debug\net8.0-windows\POO_Urna_Eletronica.exe
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\bin\Debug\net8.0-windows\POO_Urna_Eletronica.deps.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\bin\Debug\net8.0-windows\POO_Urna_Eletronica.runtimeconfig.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\bin\Debug\net8.0-windows\POO_Urna_Eletronica.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\bin\Debug\net8.0-windows\POO_Urna_Eletronica.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.frmUrna.resources
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.Properties.Resources.resources
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.csproj.GenerateResource.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.AssemblyInfo.cs
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\refint\POO_Urna_Eletronica.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.genruntimeconfig.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\ref\POO_Urna_Eletronica.dll
