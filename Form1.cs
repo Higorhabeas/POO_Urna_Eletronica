@@ -16,7 +16,7 @@ namespace POO_Urna_Eletronica
             InitializeComponent();
 
             _dicCandidato = new Dictionary<string, Candidato>();
-            _dicCandidato.Add("51", new Candidato() { Id = 51, Nome = "Darth Vader", Partido = "Império", Foto = Properties.Resources.DarthVader });
+            _dicCandidato.Add("51", new Candidato() { Id = 51, Nome = "Darth Vader", Partido = "Império", Foto = Properties.Resources.DarthVader__1_ });
             _dicCandidato.Add("52", new Candidato() { Id = 52, Nome = "Chapolin", Partido = "Quase Nada", Foto = Properties.Resources.Chapolin });
             _dicCandidato.Add("91", new Candidato() { Id = 91, Nome = "Goku", Partido = "Saijin", Foto = Properties.Resources.Goku });
             _dicCandidato.Add("92", new Candidato() { Id = 92, Nome = "Homem de Ferro", Partido = "Vingadores", Foto = Properties.Resources.HomemDeFerro });
@@ -29,7 +29,7 @@ namespace POO_Urna_Eletronica
 
         private void button11_Click(object sender, EventArgs e)
         {
-            panelFim.Visible = true;
+            
             Limpar();
 
             SoundPlayer s = new SoundPlayer(Properties.Resources.urna);
@@ -47,7 +47,7 @@ namespace POO_Urna_Eletronica
         {
             relogio.Stop();
             relogio.Enabled = false;
-            panelFim.Visible = false;
+            
             panelPrincipal.Visible = true;
         }
 
@@ -153,8 +153,8 @@ namespace POO_Urna_Eletronica
                 return;
             }
 
-            //panelFim.Visible = true;
-            //Limpar();
+            panelPrincipal.Visible = false;
+            Limpar();
             SoundPlayer s = new SoundPlayer(Properties.Resources.urna);
             s.Play();
 
@@ -162,13 +162,13 @@ namespace POO_Urna_Eletronica
             relogio.Tick -= AcaoFinal;
 
             relogio.Tick += new EventHandler(AcaoFinal);
-            relogio.Interval = 300;
+            relogio.Interval = 3000;
             relogio.Enabled = true;
             relogio.Start();
             //InitializeComponent();
         }
 
-       
+        
     }
     public class Candidato
     {

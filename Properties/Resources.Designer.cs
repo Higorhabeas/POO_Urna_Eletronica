@@ -102,6 +102,16 @@ namespace POO_Urna_Eletronica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DarthVader__1_ {
+            get {
+                object obj = ResourceManager.GetObject("DarthVader__1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Goku {
             get {
                 object obj = ResourceManager.GetObject("Goku", resourceCulture);

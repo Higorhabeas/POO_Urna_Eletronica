@@ -41,21 +41,18 @@
             btnBranco = new Button();
             btnCorrige = new Button();
             btnConfirma = new Button();
-            panelFim = new Panel();
-            panelPrincipal = new Panel();
-            picFotoCandidato = new PictureBox();
-            lblPartidoCandidato = new Label();
-            lblNomeCandidato = new Label();
-            label4 = new Label();
-            label3 = new Label();
-            txtUnidade = new TextBox();
-            txtDecimal = new TextBox();
-            label2 = new Label();
             label1 = new Label();
-            lFim = new Label();
-            panelFim.SuspendLayout();
-            panelPrincipal.SuspendLayout();
+            label2 = new Label();
+            txtDecimal = new TextBox();
+            txtUnidade = new TextBox();
+            label3 = new Label();
+            label4 = new Label();
+            lblNomeCandidato = new Label();
+            lblPartidoCandidato = new Label();
+            picFotoCandidato = new PictureBox();
+            panelPrincipal = new Panel();
             ((System.ComponentModel.ISupportInitialize)picFotoCandidato).BeginInit();
+            panelPrincipal.SuspendLayout();
             SuspendLayout();
             // 
             // button1
@@ -241,14 +238,87 @@
             btnConfirma.UseVisualStyleBackColor = false;
             btnConfirma.Click += btnConfirma_Click;
             // 
-            // panelFim
+            // label1
             // 
-            panelFim.Controls.Add(panelPrincipal);
-            panelFim.Controls.Add(lFim);
-            panelFim.Location = new Point(31, 188);
-            panelFim.Name = "panelFim";
-            panelFim.Size = new Size(394, 234);
-            panelFim.TabIndex = 14;
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label1.Location = new Point(65, 42);
+            label1.Name = "label1";
+            label1.Size = new Size(116, 25);
+            label1.TabIndex = 0;
+            label1.Text = "PRESIDENTE";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(9, 85);
+            label2.Name = "label2";
+            label2.Size = new Size(54, 15);
+            label2.TabIndex = 1;
+            label2.Text = "Número:";
+            // 
+            // txtDecimal
+            // 
+            txtDecimal.BackColor = SystemColors.Control;
+            txtDecimal.BorderStyle = BorderStyle.FixedSingle;
+            txtDecimal.Location = new Point(65, 77);
+            txtDecimal.Name = "txtDecimal";
+            txtDecimal.Size = new Size(34, 23);
+            txtDecimal.TabIndex = 2;
+            // 
+            // txtUnidade
+            // 
+            txtUnidade.BackColor = SystemColors.Control;
+            txtUnidade.BorderStyle = BorderStyle.FixedSingle;
+            txtUnidade.Location = new Point(105, 77);
+            txtUnidade.Name = "txtUnidade";
+            txtUnidade.Size = new Size(34, 23);
+            txtUnidade.TabIndex = 3;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(9, 156);
+            label3.Name = "label3";
+            label3.Size = new Size(43, 15);
+            label3.TabIndex = 4;
+            label3.Text = "Nome:";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(9, 178);
+            label4.Name = "label4";
+            label4.Size = new Size(48, 15);
+            label4.TabIndex = 5;
+            label4.Text = "Partido:";
+            // 
+            // lblNomeCandidato
+            // 
+            lblNomeCandidato.AutoSize = true;
+            lblNomeCandidato.Location = new Point(70, 157);
+            lblNomeCandidato.Name = "lblNomeCandidato";
+            lblNomeCandidato.Size = new Size(16, 15);
+            lblNomeCandidato.TabIndex = 6;
+            lblNomeCandidato.Text = "...";
+            // 
+            // lblPartidoCandidato
+            // 
+            lblPartidoCandidato.AutoSize = true;
+            lblPartidoCandidato.Location = new Point(70, 178);
+            lblPartidoCandidato.Name = "lblPartidoCandidato";
+            lblPartidoCandidato.Size = new Size(16, 15);
+            lblPartidoCandidato.TabIndex = 7;
+            lblPartidoCandidato.Text = "...";
+            // 
+            // picFotoCandidato
+            // 
+            picFotoCandidato.Location = new Point(244, 41);
+            picFotoCandidato.Name = "picFotoCandidato";
+            picFotoCandidato.Size = new Size(132, 139);
+            picFotoCandidato.SizeMode = PictureBoxSizeMode.StretchImage;
+            picFotoCandidato.TabIndex = 8;
+            picFotoCandidato.TabStop = false;
             // 
             // panelPrincipal
             // 
@@ -261,102 +331,10 @@
             panelPrincipal.Controls.Add(txtDecimal);
             panelPrincipal.Controls.Add(label2);
             panelPrincipal.Controls.Add(label1);
-            panelPrincipal.Location = new Point(3, 0);
+            panelPrincipal.Location = new Point(35, 196);
             panelPrincipal.Name = "panelPrincipal";
             panelPrincipal.Size = new Size(392, 234);
             panelPrincipal.TabIndex = 15;
-            //panelPrincipal.Paint += panelPrincipal_Paint;
-            // 
-            // picFotoCandidato
-            // 
-            picFotoCandidato.Location = new Point(244, 41);
-            picFotoCandidato.Name = "picFotoCandidato";
-            picFotoCandidato.Size = new Size(132, 139);
-            picFotoCandidato.TabIndex = 8;
-            picFotoCandidato.TabStop = false;
-            // 
-            // lblPartidoCandidato
-            // 
-            lblPartidoCandidato.AutoSize = true;
-            lblPartidoCandidato.Location = new Point(70, 178);
-            lblPartidoCandidato.Name = "lblPartidoCandidato";
-            lblPartidoCandidato.Size = new Size(16, 15);
-            lblPartidoCandidato.TabIndex = 7;
-            lblPartidoCandidato.Text = "...";
-            // 
-            // lblNomeCandidato
-            // 
-            lblNomeCandidato.AutoSize = true;
-            lblNomeCandidato.Location = new Point(70, 157);
-            lblNomeCandidato.Name = "lblNomeCandidato";
-            lblNomeCandidato.Size = new Size(16, 15);
-            lblNomeCandidato.TabIndex = 6;
-            lblNomeCandidato.Text = "...";
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(9, 178);
-            label4.Name = "label4";
-            label4.Size = new Size(48, 15);
-            label4.TabIndex = 5;
-            label4.Text = "Partido:";
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(9, 156);
-            label3.Name = "label3";
-            label3.Size = new Size(43, 15);
-            label3.TabIndex = 4;
-            label3.Text = "Nome:";
-            // 
-            // txtUnidade
-            // 
-            txtUnidade.BackColor = SystemColors.Control;
-            txtUnidade.BorderStyle = BorderStyle.FixedSingle;
-            txtUnidade.Location = new Point(105, 77);
-            txtUnidade.Name = "txtUnidade";
-            txtUnidade.Size = new Size(34, 23);
-            txtUnidade.TabIndex = 3;
-            // 
-            // txtDecimal
-            // 
-            txtDecimal.BackColor = SystemColors.Control;
-            txtDecimal.BorderStyle = BorderStyle.FixedSingle;
-            txtDecimal.Location = new Point(65, 77);
-            txtDecimal.Name = "txtDecimal";
-            txtDecimal.Size = new Size(34, 23);
-            txtDecimal.TabIndex = 2;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(9, 85);
-            label2.Name = "label2";
-            label2.Size = new Size(54, 15);
-            label2.TabIndex = 1;
-            label2.Text = "Número:";
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(65, 42);
-            label1.Name = "label1";
-            label1.Size = new Size(116, 25);
-            label1.TabIndex = 0;
-            label1.Text = "PRESIDENTE";
-            // 
-            // lFim
-            // 
-            lFim.AutoSize = true;
-            lFim.Font = new Font("Segoe UI", 26.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lFim.Location = new Point(167, 85);
-            lFim.Name = "lFim";
-            lFim.Size = new Size(77, 47);
-            lFim.TabIndex = 0;
-            lFim.Text = "FIM";
             // 
             // frmUrna
             // 
@@ -364,7 +342,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Urna_2;
             ClientSize = new Size(696, 450);
-            Controls.Add(panelFim);
+            Controls.Add(panelPrincipal);
             Controls.Add(btnConfirma);
             Controls.Add(btnCorrige);
             Controls.Add(btnBranco);
@@ -381,11 +359,9 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "frmUrna";
             Text = "Urna";
-            panelFim.ResumeLayout(false);
-            panelFim.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)picFotoCandidato).EndInit();
             panelPrincipal.ResumeLayout(false);
             panelPrincipal.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)picFotoCandidato).EndInit();
             ResumeLayout(false);
         }
 
@@ -404,19 +380,17 @@
         private Button btnBranco;
         private Button btnCorrige;
         private Button btnConfirma;
-        private Panel panelFim;
-        private Label lFim;
-        private Panel panelPrincipal;
         private Label label1;
-        private TextBox txtDecimal;
         private Label label2;
+        private TextBox txtDecimal;
         private TextBox txtUnidade;
-        private Label lblNomeCandidato;
-        private Label label4;
         private Label label3;
-        private PictureBox picFotoCandidato;
+        private Label label4;
+        private Label lblNomeCandidato;
         private Label lblPartidoCandidato;
+        private PictureBox picFotoCandidato;
+        private Panel panelPrincipal;
         //private System.Windows.Forms.Timer relogio;
-        
+
     }
 }

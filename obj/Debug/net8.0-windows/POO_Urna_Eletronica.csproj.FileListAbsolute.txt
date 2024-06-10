@@ -15,3 +15,4 @@ C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_U
 C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.pdb
 C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.genruntimeconfig.cache
 C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\ref\POO_Urna_Eletronica.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\POO_Trabalho_Final\POO_Urna_Eletronica\obj\Debug\net8.0-windows\POO_Urna_Eletronica.sourcelink.json
