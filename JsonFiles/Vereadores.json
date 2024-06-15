@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Numero": 51510,
+    "Nome": "",
+    "Partido": "ATP",
+    "Foto": ""
+  },
+  {
+    "Id": 2,
+    "Numero": 23230,
+    "Nome": "",
+    "Partido": "AED",
+    "Foto": ""
+  },
+  {
+    "Id": 3,
+    "Numero": 34340,
+    "Nome": "",
+    "Partido": "POO",
+    "Foto": ""
+  },
+  {
+    "Id": 4,
+    "Numero": 61610,
+    "Nome": "",
+    "Partido": "SO",
+    "Foto": ""
+  },
+  {
+    "Id": 5,
+    "Numero": 84840,
+    "Nome": "",
+    "Partido": "BD",
+    "Foto": ""
+  },
+  {
+    "Id": 6,
+    "Numero": 12120,
+    "Nome": "",
+    "Partido": "MPDN",
+    "Foto": ""
+  },
+  {
+    "Id": 7,
+    "Numero": 73730,
+    "Nome": "",
+    "Partido": "FSI",
+    "Foto": ""
+  },
+  {
+    "Id": 8,
+    "Numero": 99990,
+    "Nome": "",
+    "Partido": "Calculo",
+    "Foto": ""
+  }
+]

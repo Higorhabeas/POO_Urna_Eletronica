@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "Numero": 5101,
+    "Nome": "",
+    "Partido": "ATP",
+    "Foto": ""
+  },
+  {
+    "Id": 2,
+    "Numero": 5102,
+    "Nome": "",
+    "Partido": "ATP",
+    "Foto": ""
+  },
+  {
+    "Id": 3,
+    "Numero": 5103,
+    "Nome": "",
+    "Partido": "ATP",
+    "Foto": ""
+  },
+  {
+    "Id": 4,
+    "Numero": 2301,
+    "Nome": "",
+    "Partido": "AED",
+    "Foto": ""
+  },
+  {
+    "Id": 5,
+    "Numero": 2302,
+    "Nome": "",
+    "Partido": "AED",
+    "Foto": ""
+  },
+  {
+    "Id": 6,
+    "Numero": 2303,
+    "Nome": "",
+    "Partido": "AED",
+    "Foto": ""
+  },
+  {
+    "Id": 7,
+    "Numero": 3401,
+    "Nome": "",
+    "Partido": "POO",
+    "Foto": ""
+  },
+  {
+    "Id": 8,
+    "Numero": 3402,
+    "Nome": "",
+    "Partido": "POO",
+    "Foto": ""
+  },
+  {
+    "Id": 9,
+    "Numero": 3403,
+    "Nome": "",
+    "Partido": "POO",
+    "Foto": ""
+  },
+  {
+    "Id": 10,
+    "Numero": 6101,
+    "Nome": "",
+    "Partido": "SO",
+    "Foto": ""
+  },
+  {
+    "Id": 11,
+    "Numero": 6102,
+    "Nome": "",
+    "Partido": "SO",
+    "Foto": ""
+  },
+  {
+    "Id": 12,
+    "Numero": 6103,
+    "Nome": "",
+    "Partido": "SO",
+    "Foto": ""
+  },
+  {
+    "Id": 13,
+    "Numero": 8401,
+    "Nome": "",
+    "Partido": "BD",
+    "Foto": ""
+  },
+  {
+    "Id": 14,
+    "Numero": 8402,
+    "Nome": "",
+    "Partido": "BD",
+    "Foto": ""
+  },
+  {
+    "Id": 15,
+    "Numero": 8403,
+    "Nome": "",
+    "Partido": "BD",
+    "Foto": ""
+  },
+  {
+    "Id": 16,
+    "Numero": 1201,
+    "Nome": "",
+    "Partido": "MPDN",
+    "Foto": ""
+  },
+  {
+    "Id": 17,
+    "Numero": 1202,
+    "Nome": "",
+    "Partido": "MPDN",
+    "Foto": ""
+  },
+  {
+    "Id": 18,
+    "Numero": 1203,
+    "Nome": "",
+    "Partido": "MPDN",
+    "Foto": ""
+  },
+  {
+    "Id": 19,
+    "Numero": 7301,
+    "Nome": "",
+    "Partido": "FSI",
+    "Foto": ""
+  },
+  {
+    "Id": 20,
+    "Numero": 7302,
+    "Nome": "",
+    "Partido": "FSI",
+    "Foto": ""
+  },
+  {
+    "Id": 21,
+    "Numero": 7303,
+    "Nome": "",
+    "Partido": "FSI",
+    "Foto": ""
+  },
+  {
+    "Id": 22,
+    "Numero": 9901,
+    "Nome": "",
+    "Partido": "Calculo",
+    "Foto": ""
+  },
+  {
+    "Id": 23,
+    "Numero": 9902,
+    "Nome": "",
+    "Partido": "Calculo",
+    "Foto": ""
+  },
+  {
+    "Id": 24,
+    "Numero": 9903,
+    "Nome": "",
+    "Partido": "Calculo",
+    "Foto": ""
+  }
+]
