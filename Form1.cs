@@ -2,6 +2,9 @@ using System.Media;
 using System.Windows.Forms;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
+using System.Text.Json;
+
 
 namespace POO_Urna_Eletronica
 {
@@ -16,20 +19,34 @@ namespace POO_Urna_Eletronica
             InitializeComponent();
 
             _dicCandidato = new Dictionary<string, Candidato>();
-            _dicCandidato.Add("51", new Candidato() { Id = 51, Nome = "Darth Vader", Partido = "Império", Foto = Properties.Resources.DarthVader__1_ });
-            _dicCandidato.Add("52", new Candidato() { Id = 52, Nome = "Chapolin", Partido = "Quase Nada", Foto = Properties.Resources.Chapolin });
-            _dicCandidato.Add("91", new Candidato() { Id = 91, Nome = "Goku", Partido = "Saijin", Foto = Properties.Resources.Goku });
-            _dicCandidato.Add("92", new Candidato() { Id = 92, Nome = "Homem de Ferro", Partido = "Vingadores", Foto = Properties.Resources.HomemDeFerro });
-            _dicCandidato.Add("99", new Candidato() { Id = 99, Nome = "Batman", Partido = "Liga da Justiça", Foto = Properties.Resources.Batman });
+            CarregarCandidatos();
 
             relogio = new System.Windows.Forms.Timer();// Inicializando o Timer
+        }
+
+        private void CarregarCandidatos()
+        {
+            string caminhoArquivo = "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Presidentes.json";
+            if (File.Exists(caminhoArquivo))
+            {
+                string jsonString = File.ReadAllText(caminhoArquivo);
+                var candidatos = JsonSerializer.Deserialize<List<Candidato>>(jsonString);
+                foreach (var candidato in candidatos)
+                {
+                    _dicCandidato.Add(candidato.Numero.ToString(), candidato);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Arquivo de candidatos não encontrado");
+            }
         }
 
 
 
         private void button11_Click(object sender, EventArgs e)
         {
-            
+
             Limpar();
 
             SoundPlayer s = new SoundPlayer(Properties.Resources.urna);
@@ -47,7 +64,7 @@ namespace POO_Urna_Eletronica
         {
             relogio.Stop();
             relogio.Enabled = false;
-            
+
             panelPrincipal.Visible = true;
         }
 
@@ -67,11 +84,12 @@ namespace POO_Urna_Eletronica
 
         private void PreencherCandidato(string d1, string d2)
         {
-            if (_dicCandidato.ContainsKey(d1 + d2))
+            string numeroCandidato = d1 + d2;
+            if (_dicCandidato.ContainsKey(numeroCandidato))
             {
-                lblNomeCandidato.Text = _dicCandidato[d1 + d2].Nome;
-                lblPartidoCandidato.Text = _dicCandidato[d1 + d2].Partido;
-                picFotoCandidato.Image = _dicCandidato[d1 + d2].Foto;
+                var candidato = _dicCandidato[numeroCandidato];
+                lblNomeCandidato.Text = candidato.Nome;
+                lblPartidoCandidato.Text = candidato.Partido;
             }
             else
             {
@@ -147,7 +165,7 @@ namespace POO_Urna_Eletronica
 
         private void btnConfirma_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(txtDecimal.Text))
+            if (string.IsNullOrEmpty(txtDecimal.Text) || string.IsNullOrEmpty(txtUnidade.Text))
             {
                 MessageBox.Show("Favor informar o candidato.");
                 return;
@@ -168,6 +186,6 @@ namespace POO_Urna_Eletronica
             //InitializeComponent();
         }
 
-        
+
     }
 }
