@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\presidentes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\presidentes.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:entities\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\deputadosestaduais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\deputadosestaduais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\deputadosfederais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\deputadosfederais.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\governadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\governadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\prefeitos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\prefeitos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\jsonfiles\\vereadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:jsonfiles\\vereadores.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|c:\\users\\faelr\\onedrive\\documentos\\trabpoo\\poo_urna_eletronica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D574CEDE-2C59-4523-AAFC-32C6EA4C29C8}|POO_Urna_Eletronica.csproj|C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -30,37 +54,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Presidentes.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Presidentes.json",
+              "RelativeDocumentMoniker": "JsonFiles\\Presidentes.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Presidentes.json",
+              "RelativeToolTip": "JsonFiles\\Presidentes.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T12:09:45.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vereadores.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Vereadores.json",
+              "RelativeDocumentMoniker": "JsonFiles\\Vereadores.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Vereadores.json",
+              "RelativeToolTip": "JsonFiles\\Vereadores.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:52:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prefeitos.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Prefeitos.json",
+              "RelativeDocumentMoniker": "JsonFiles\\Prefeitos.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Prefeitos.json",
+              "RelativeToolTip": "JsonFiles\\Prefeitos.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:52:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Governadores.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Governadores.json",
+              "RelativeDocumentMoniker": "JsonFiles\\Governadores.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\Governadores.json",
+              "RelativeToolTip": "JsonFiles\\Governadores.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:52:27.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeputadosFederais.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\DeputadosFederais.json",
+              "RelativeDocumentMoniker": "JsonFiles\\DeputadosFederais.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\DeputadosFederais.json",
+              "RelativeToolTip": "JsonFiles\\DeputadosFederais.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:52:25.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeputadosEstaduais.json",
+              "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\DeputadosEstaduais.json",
+              "RelativeDocumentMoniker": "JsonFiles\\DeputadosEstaduais.json",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\JsonFiles\\DeputadosEstaduais.json",
+              "RelativeToolTip": "JsonFiles\\DeputadosEstaduais.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T11:52:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Candidato.cs",
               "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Entities\\Candidato.cs",
               "RelativeDocumentMoniker": "Entities\\Candidato.cs",
               "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Entities\\Candidato.cs",
               "RelativeToolTip": "Entities\\Candidato.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T10:54:54.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAACIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T13:32:24.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -73,26 +175,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Form1.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T00:17:41.363Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Properties\\Resources.resx",
               "ToolTip": "C:\\Users\\faelr\\OneDrive\\Documentos\\TrabPOO\\POO_Urna_Eletronica\\Properties\\Resources.resx",
               "RelativeToolTip": "Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-09T20:35:39.337Z"
+              "WhenOpened": "2024-06-09T20:35:39.337Z",
+              "EditorCaption": ""
             }
           ]
         }
