@@ -2,56 +2,56 @@
   {
     "Id": 1,
     "Numero": 51,
-    "Nome": "",
+    "Nome": "Sofia",
     "Partido": "ATP",
     "Foto": ""
   },
   {
     "Id": 2,
     "Numero": 23,
-    "Nome": "",
+    "Nome": "Gabriel",
     "Partido": "AED",
     "Foto": ""
   },
   {
     "Id": 3,
     "Numero": 34,
-    "Nome": "",
+    "Nome": "Isabela",
     "Partido": "POO",
     "Foto": ""
   },
   {
     "Id": 4,
     "Numero": 61,
-    "Nome": "",
+    "Nome": "Guilherme",
     "Partido": "SO",
     "Foto": ""
   },
   {
     "Id": 5,
     "Numero": 84,
-    "Nome": "",
+    "Nome": "Laura",
     "Partido": "BD",
     "Foto": ""
   },
   {
     "Id": 6,
     "Numero": 12,
-    "Nome": "",
+    "Nome": "Rafael",
     "Partido": "MPDN",
     "Foto": ""
   },
   {
     "Id": 7,
     "Numero": 73,
-    "Nome": "",
+    "Nome": "Beatriz",
     "Partido": "FSI",
     "Foto": ""
   },
   {
     "Id": 8,
     "Numero": 99,
-    "Nome": "",
+    "Nome": "Matheus",
     "Partido": "Calculo",
     "Foto": ""
   }
