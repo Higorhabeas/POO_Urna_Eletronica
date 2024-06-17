@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_Urna_Eletronica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4b14ae2770cbd86cb7dfd8981f5dee80aee3e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+554b4199687e476b9407f87e02dff3886ad35cde")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_Urna_Eletronica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_Urna_Eletronica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
